@@ -9,4 +9,12 @@ Thus, these findings intend to shed light on how Australian companies communicat
 
 - Text analysis techniques and machine learning models are employed which offers an automatic approach to classify communicative statements to the corresponding response categories
 
+- Six phases in the process, including
+1.	Data collection
+2.	Manual classification of response strategies
+3.	Data understanding
+4.	Data preparation & Feature engineering
+5.	Modelling 
+6.	Evaluation
+
 ## To be continued
